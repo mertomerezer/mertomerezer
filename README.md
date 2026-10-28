@@ -3,7 +3,9 @@
 
 # Hey, I'm Mert 👋
 
-### `Backend Developer in Progress` 💙
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+Python;Always+Learning.+Always+Building." alt="Typing SVG" />
+</a>
 
 *Building, learning, and improving — one project at a time.*
 
