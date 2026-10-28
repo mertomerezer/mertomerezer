@@ -1,19 +1,11 @@
-## Hi there 👋
 
-<!--
-**mertomerezer/mertomerezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 <div align="center">
 
 # Hey, I'm Mert 👋
 
 ### `Backend Developer in Progress` 💙
 
-Building projects, exploring ideas, and improving every day.
+*Building, learning, and improving — one project at a time.*
 
 [![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=58A6FF)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=58A6FF)](https://spring.io/projects/spring-boot)
@@ -25,13 +17,14 @@ Building projects, exploring ideas, and improving every day.
 
 ## `$ whoami`
 
-I'm a developer focused on backend development, building practical projects, and continuously expanding my technical skills.
+I'm a developer passionate about backend development, problem-solving, and continuously improving my skills through hands-on projects.
 
 - ☕ Developing backend applications with **Java & Spring Boot**
-- 🐍 Exploring data processing and analysis with **Python**
+- 🐍 Exploring **Python** and data processing
 - 🐘 Working with **PostgreSQL**
 - 🔌 Testing APIs with **Postman**
-- 🚀 Currently developing two personal projects
+- 🚀 Currently working on personal and academic projects
+- 📚 Always learning and exploring new technologies
 
 ## `$ tech-stack`
 
@@ -41,18 +34,38 @@ I'm a developer focused on backend development, building practical projects, and
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=58A6FF)
 ![Postman](https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=58A6FF)
 ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=58A6FF)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=58A6FF)
 
-## `$ projects`
+---
 
-### 🎮 Social Game Journal API
+## `$ featured-projects`
+
+### 🎮 Checkpoint-Social Game Journal API
+
 A Spring Boot API for tracking games and recording notes from play sessions.
 
-`Java` `Spring Boot` `PostgreSQL` `Postman`
+**Technologies:** `Java` `Spring Boot` `PostgreSQL` `Postman`
 
-### 📊 Extensible Data Analysis Toolkit
-An extensible Python project for exploring, processing, and analyzing data, with the goal of growing into a comprehensive data tool.
+### 📊 DataScout-Extensible Data Analysis Toolkit
 
-`Python` `Data Processing` `Data Analysis`
+An extensible Python project for exploring, processing, and analyzing data, designed to grow into a comprehensive data tool.
+
+**Technologies:** `Python` `Data Processing` `Data Analysis`
+
+### ☕ Aurelia Roastery-Cafe Management System
+
+A collaborative Java project developed with classmates as part of a data structures course. Currently in the early stages of development.
+
+**Technologies:** `Java` `Data Structures` `Team Project`
+
+---
+
+## `$ current-focus`
+
+- Building backend applications with Spring Boot
+- Improving my Python skills
+- Exploring data processing and analysis
+- Strengthening my problem-solving skills
 
 ---
 
@@ -60,14 +73,6 @@ An extensible Python project for exploring, processing, and analyzing data, with
 
 ### `Always learning. Always building.`
 
-*One project at a time.* 💙
+💙 *One project at a time.*
 
 </div>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
