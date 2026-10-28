@@ -69,7 +69,22 @@ A collaborative Java project developed with classmates as part of a data structu
 - Exploring data processing and analysis
 - Strengthening my problem-solving skills
 
+
 ---
+
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mertomerezer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertomerezer&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
+</div>
+
 
 <div align="center">
 
