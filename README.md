@@ -15,7 +15,7 @@
 
 ---
 
-## `$ whoami`
+## About Me
 
 I'm a developer passionate about backend development, problem-solving, and continuously improving my skills through hands-on projects.
 
@@ -26,7 +26,7 @@ I'm a developer passionate about backend development, problem-solving, and conti
 - 🚀 Currently working on personal and academic projects
 - 📚 Always learning and exploring new technologies
 
-## `$ tech-stack`
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=58A6FF)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=58A6FF)
@@ -38,7 +38,7 @@ I'm a developer passionate about backend development, problem-solving, and conti
 
 ---
 
-## `$ featured-projects`
+## Featured Projects
 
 ### 🎮 Checkpoint-Social Game Journal API
 
@@ -60,7 +60,7 @@ A collaborative Java project developed with classmates as part of a data structu
 
 ---
 
-## `$ current-focus`
+## Current Focus
 
 - Building backend applications with Spring Boot
 - Improving my Python skills
